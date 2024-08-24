@@ -68,5 +68,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Contact
 
-For any questions or suggestions, feel free to contact me at mdarifinhasanratul@gmsil.com[mdarifinhasanratul@gmsil.com]
+For any questions or suggestions, feel free to contact me at mdarifinhasanratul@gmail.com
 
